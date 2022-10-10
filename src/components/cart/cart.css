@@ -1,0 +1,12 @@
+.cart{
+    position: fixed;
+    top: 100px;
+    right: 100px;
+    background-color: #cacaca34;
+    padding: 20px;
+    max-height: 80vh;
+    overflow: auto;
+}
+.cart p{
+    text-align: left;
+}
